@@ -1,0 +1,4 @@
+/backend/node_modules
+/backend/.env
+
+/weather-app-frontend/node_modules
